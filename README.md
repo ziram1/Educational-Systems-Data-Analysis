@@ -64,7 +64,7 @@ To run this analysis locally, you will need:
 
 1.  Clone this repository:
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/ziram1/Educational-Systems-Data-Analysis
     ```
 2.  Ensure the necessary data files (e.g., `EdStatsData.csv`, `EdStatsCountry.csv`) are placed in the correct directory structure as referenced in the notebook.
 3.  Open the notebook:
@@ -73,6 +73,3 @@ To run this analysis locally, you will need:
     ```
 4.  Execute the cells sequentially to reproduce the data cleaning, analysis, scoring, and visualization steps.
 
-## License
-
-[Specify your project license here, e.g., MIT, Apache 2.0, or leave blank if none.]
