@@ -66,7 +66,7 @@ To run this analysis locally, you will need:
     ```bash
     git clone https://github.com/ziram1/Educational-Systems-Data-Analysis
     ```
-2.  Download the World Bank Education Statistics dataset from the official World Bank Data Catalog: https://datacatalog.worldbank.org/dataset/education-statistics.
+2.  Download the World Bank Education Statistics dataset from the official World Bank Data Catalog: https://datacatalog.worldbank.org/search/dataset/0038480/education-statistics
 3.  Ensure the necessary data files (e.g., `EdStatsData.csv`, `EdStatsCountry.csv`) are placed in the correct directory structure as referenced in the notebook.
 4.  Open the notebook:
     ```bash
