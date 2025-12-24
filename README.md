@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a Jupyter Notebook (`notebook.html`) detailing an **Exploratory Data Analysis (EDA)** of the World Bank's Education Statistics (EdStats) dataset. The primary goal of this analysis is to provide strategic insights to an EdTech company, helping them identify and prioritize international markets with the highest client potential for their services.
+This repository contains a Jupyter Notebook detailing an **Exploratory Data Analysis (EDA)** of the World Bank's Education Statistics (EdStats) dataset. The primary goal of this analysis is to provide strategic insights to an EdTech company, helping them identify and prioritize international markets with the highest client potential for their services.
 
 The analysis focuses on a period from 2010 to 2015, using key socio-economic and educational indicators to build a composite score for market attractiveness.
 
