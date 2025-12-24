@@ -70,7 +70,7 @@ To run this analysis locally, you will need:
 3.  Ensure the necessary data files (e.g., `EdStatsData.csv`, `EdStatsCountry.csv`) are placed in the correct directory structure as referenced in the notebook.
 4.  Open the notebook:
     ```bash
-    jupyter notebook P2_01_notebook.ipynb
+    jupyter notebook notebook.ipynb
     ```
 5.  Execute the cells sequentially to reproduce the data cleaning, analysis, scoring, and visualization steps.
 
