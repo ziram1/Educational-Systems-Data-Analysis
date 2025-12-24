@@ -66,10 +66,11 @@ To run this analysis locally, you will need:
     ```bash
     git clone https://github.com/ziram1/Educational-Systems-Data-Analysis
     ```
-2.  Ensure the necessary data files (e.g., `EdStatsData.csv`, `EdStatsCountry.csv`) are placed in the correct directory structure as referenced in the notebook.
-3.  Open the notebook:
+2.  Download the World Bank Education Statistics dataset from the official World Bank Data Catalog: https://datacatalog.worldbank.org/dataset/education-statistics.
+3.  Ensure the necessary data files (e.g., `EdStatsData.csv`, `EdStatsCountry.csv`) are placed in the correct directory structure as referenced in the notebook.
+4.  Open the notebook:
     ```bash
-    jupyter notebook P2_01_notebook.html
+    jupyter notebook P2_01_notebook.ipynb
     ```
-4.  Execute the cells sequentially to reproduce the data cleaning, analysis, scoring, and visualization steps.
+5.  Execute the cells sequentially to reproduce the data cleaning, analysis, scoring, and visualization steps.
 
